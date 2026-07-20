@@ -21,5 +21,4 @@ AcoustiRail-AI is an automated, closed-loop hardware-software hybrid network eng
 
 ## 👥 Team INS VIKRANT — Core Leadership
 * **HIMANSHU RAJ** - Chief Executive Architect & Lead AI Engineer
-* **AMMAR** - Director of Git Operations & Version Control
-* **ASJAD** - Lead Systems Analyst & Implementation Specialist
+
